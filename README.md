@@ -1,2 +1,9 @@
-# 19104076_RevaRahardian
-# Praktikum_Design_Dan_Pemrograman_WEB
+# Praktikum-Desain-dan-Pemrograman-Web-Laravel-6
+
+| NAMA | NIM | KELAS
+|--|--|--|
+| Reva Rahardian  | 19104076 | 03 SE B
+
+
+
+link hosting : https://reva.linknya.id/
